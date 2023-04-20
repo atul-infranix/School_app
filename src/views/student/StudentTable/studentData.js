@@ -1,0 +1,121 @@
+const studentData = [
+    {
+        student_name: "Steve Harrington",
+        class: "12th PCM",
+        reg_no: 1234,
+        scholar_no: 5678,
+        dob: '2005-05-20',
+        doa:'2019-08-27',
+        gender: 1,
+        category: 'OBC',
+        state: 'Indiana',
+        city: 'Hawkins',
+        status:1
+    },
+    {
+        student_name: "Elvis Presly",
+        class: "12th PCM",
+        reg_no: 1234,
+        scholar_no: 5678,
+        dob: '2005-05-20',
+        doa:'2019-08-27',
+        gender: 1,
+        category: 'OBC',
+        state: 'Indiana',
+        city: 'Hawkins',
+        status:1
+    },
+    {
+        student_name: "Dustin Henderson",
+        class: "12th PCM",
+        reg_no: 1234,
+        scholar_no: 5678,
+        dob: '2005-05-20',
+        doa:'2019-08-27',
+        gender: 1,
+        category: 'OBC',
+        state: 'Indiana',
+        city: 'Hawkins',
+        status:1
+    },
+    {
+        student_name: "Walter White",
+        class: "12th PCM",
+        reg_no: 1234,
+        scholar_no: 5678,
+        dob: '2005-05-20',
+        doa:'2019-08-27',
+        gender: 1,
+        category: 'OBC',
+        state: 'Indiana',
+        city: 'Hawkins',
+        status:1
+    },
+    {
+        student_name: "Thomas Sigma Shelby",
+        class: "12th PCM",
+        reg_no: 1234,
+        scholar_no: 5678,
+        dob: '2005-05-20',
+        doa:'2019-08-27',
+        gender: 1,
+        category: 'OBC',
+        state: 'Indiana',
+        city: 'Hawkins',
+        status:1
+    },
+    {
+        student_name: "Tyler Durden",
+        class: "12th PCM",
+        reg_no: 1234,
+        scholar_no: 5678,
+        dob: '2005-05-20',
+        doa:'2019-08-27',
+        gender: 1,
+        category: 'OBC',
+        state: 'Indiana',
+        city: 'Hawkins',
+        status:1
+    },
+    {
+        student_name: "Andrew Garfield",
+        class: "12th PCM",
+        reg_no: 1234,
+        scholar_no: 5678,
+        dob: '2005-05-20',
+        doa:'2019-08-27',
+        gender: 1,
+        category: 'OBC',
+        state: 'Indiana',
+        city: 'Hawkins',
+        status:1
+    },
+    {
+        student_name: "Robert Henderson",
+        class: "12th PCM",
+        reg_no: 1234,
+        scholar_no: 5678,
+        dob: '2005-05-20',
+        doa:'2019-08-27',
+        gender: 1,
+        category: 'OBC',
+        state: 'Indiana',
+        city: 'Hawkins',
+        status:1
+    },
+    {
+        student_name: "Jesse Pinkman",
+        class: "12th PCM",
+        reg_no: 1234,
+        scholar_no: 5678,
+        dob: '2005-05-20',
+        doa:'2019-08-27',
+        gender: 1,
+        category: 'OBC',
+        state: 'Indiana',
+        city: 'Hawkins',
+        status:1
+    }
+]
+
+export default studentData
