@@ -16,7 +16,7 @@ import navigationConfig from 'configs/navigation.config'
 import VerticalMenuContent from 'components/template/VerticalMenuContent'
 import useResponsive from 'utils/hooks/useResponsive'
 import { useSelector } from 'react-redux'
-import school_banner from "assets/school_banner.jpg"
+import school_banner from "assets/images/school_banner.jpg"
 
 const sideNavStyle = {
 	width: SIDE_NAV_WIDTH,
